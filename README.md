@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hitheshlal
-- 👀 I’m interested in programming c
-- 🌱 I’m currently learning programming c //my first programming language//
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning by self
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me hitheshlal.114@gmail.com
 
